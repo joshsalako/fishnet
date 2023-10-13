@@ -20,5 +20,5 @@ This study sought to improve traditional aquaculture and fishery management in t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/AI-Aquaculture-Management.git
-cd AI-Aquaculture-Management
+git clone https://github.com/joshsalako/fishnet.git)https://github.com/joshsalako/fishnet.git
+cd fishnet
