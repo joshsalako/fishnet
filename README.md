@@ -1,4 +1,4 @@
-# Fish-NET: AI-Driven Aquaculture Management
+# Fish-NET: AI-Based Aquaculture Management
 
 This research project aims to enhance traditional aquaculture and fishery management by employing artificial intelligence, focusing on Nigerian catfish farming as a case study. Through a methodical process involving data acquisition, processing, model selection and integration, application development, testing, and validation, this study explores the potential of AI in automating monitoring procedures, consequently improving accuracy, scalability, and efficiency.
 
@@ -19,3 +19,6 @@ This study sought to improve traditional aquaculture and fishery management in t
 ```bash
 git clone https://github.com/joshsalako/fishnet.git)https://github.com/joshsalako/fishnet.git
 cd fishnet
+```
+Watch a demo video of one of the model incorporated with an object tracking model [here](https://youtu.be/2S-mt2zcutE).
+Thank you!
